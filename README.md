@@ -1,7 +1,7 @@
 # Hi there, I'm Rithika Joshi 
 
 ## About Me
-- 🔭 I’m currently working on: RYZE   
+- 🔭 I’m currently working on real time projects.
 - 🌱 I’m currently learning: Artificial Inelligence and Data Science    
 - 💬 Ask me about: FullStack, DevOps, DSA, Machine Learning
 - 📫 How to reach me: rithikajoshi.b@gmail.com
