@@ -17,5 +17,5 @@
 -  Dynamic Route Optimization using DSA
 -  Spell Checker using Trie and DSA Algorithms
 -  EVE
--  
+  
 
