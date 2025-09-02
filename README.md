@@ -1,4 +1,4 @@
-# Hi there, I'm Rithika Joshi 👋
+# Hi there, I'm Rithika Joshi 
 
 ## About Me
 - 🔭 I’m currently working on: RYZE   
