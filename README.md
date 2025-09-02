@@ -1,13 +1,10 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Rithika Joshi 👋
 
 ## About Me
-- 🔭 I’m currently working on: [Your Project or Role]
-- 🌱 I’m currently learning: [Skills or Technologies]
-- 👯 I’m looking to collaborate on: [Projects or Topics]
-- 🤔 I’m looking for help with: [Challenges or Ideas]
-- 💬 Ask me about: [Topics or Technologies you know well]
-- 📫 How to reach me: [Email or social links]
-- ⚡ Fun fact: [Something unique about you]
+- 🔭 I’m currently working on: RYZE   
+- 🌱 I’m currently learning: Artificial Inelligence and Data Science    
+- 💬 Ask me about: FullStack, DevOps, DSA, Machine Learning
+- 📫 How to reach me: rithikajoshi.b@gmail.com
 
 ## Skills & Technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -16,4 +13,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ## Projects
-- [Project Name 1](https://github.com/yourusername/project
+- RYZE
+-  Dynamic Route Optimization using DSA
+-  Spell Checker using Trie and DSA Algorithms
+-  EVE
+-  
+
