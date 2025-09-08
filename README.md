@@ -1,7 +1,7 @@
 # RITHIKA JOSHI ✨
 # [Your Name] 🌌✨
 
-![Banner](https://via.placeholder.com/1200x400.png?text=Your+Artistic+Banner) <!-- Replace with your uploaded image URL, e.g., assets/banner.jpg -->
+![Banner](https://in.pinterest.com/pin/8514686790838090/) <!-- Replace with your uploaded image URL, e.g., assets/banner.jpg -->
 
 ## About Me
 🌸 **Hello! I’m [Your Name]**, a [your role, e.g., coder, designer, dreamer] weaving code and creativity in a digital cosmos.  
