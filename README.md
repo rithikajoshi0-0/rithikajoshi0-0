@@ -1,22 +1,56 @@
-# Hi there, I'm Rithika Joshi 
+RITHIKA JOSHI !! ✨✨
+About Me
+Nama: I'm Rithika Joshi B  
+✨ Begin my journey with Software Development in ASP.NET MVC💻 Work on projects on Data and Designing🎓 I am currently pursuing a B.Tech and designing🌱 To learn more framework and hands-on experience in Full Stack Development🤝 Ask about Microsoft .NET framework, Blockchain Technology, Python💬 Artificial Intelligence, Machine Learning, Deep Learning, Data Automation⚡ I love perfection
+Follow Me On
 
-## About Me
-- 🔭 I’m currently working on real time projects.
-- 🌱 I’m currently learning: Artificial Intelligence and Data Science    
-- 💬 Ask me about: FullStack, DevOps, DSA, Machine Learning
-- 📫 How to reach me: rithikajoshi.b@gmail.com
+LinkedIn  
+Instagram
 
-## Skills & Technologies
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![C programming](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-
-## Projects
-- RYZE
--  Dynamic Route Optimization using DSA
--  Spell Checker using Trie and DSA Algorithms
--  EVE
+Languages & Tools I Have on My Hands
+            
+GitHub Stats
   
 
+Total Stars: 397  
+Total Commits: 3  
+Longest Streak: Aug 4  
+Most Used Languages:
+
+Tech Stack:
+
+Top Contributed Repo
+MASTERYDAY GitHub Stats
+
+masteryday  
+masteryday.github.io  
+Wall-of-Fame
+
+Random Quote
+
+"Success is not final, failure is not fatal: It is the courage to continue that counts."— Winston ChurchillJust a thought, just a vibe.
+
+Support Me ☕
+
+Buy Me a Coffee
+
+Pinned
+Pinned Repos
+
+masteryday.github.io  
+Master  
+A Model Page  
+A Model Page  
+This is of Australia wallpapers  
+Dice Roller
+
+40 Contributions in the last year
+
+Contribution activity
+August 2025
+Created 2 commits in 4 repositories  
+
+masteryday/masteryday (2 commits)  
+masteryday/masteryday.github.io (2 commits)  
+masteryday/Wall-of-Fame (2 commits)  
+masteryday/masteryday-profile (2 commits)
