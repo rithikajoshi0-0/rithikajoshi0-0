@@ -7,7 +7,7 @@ I’ll take a potato chip… and write some code!
 
 ### Follow Me On
 - [YouTube](https://www.youtube.com/@yourusername)  
-- [LinkedIn](https://www.linkedin.com/in/yourusername)  
+- [LinkedIn](www.linkedin.com/in/rithikajoshi1130)  
 - [Twitter](https://twitter.com/yourusername)  
 - [Instagram](https://www.instagram.com/rithikajoshi.b/?next=%2F)  
 
