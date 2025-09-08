@@ -9,7 +9,7 @@
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,python,git,docker,aws,azure,react,angular)
 
 ## GitHub Constellations
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rithikajoshi0-0&show_icons=true&theme=radical)  
 - Stars Collected: 1111
 - Commits Orbiting: 112
   
@@ -29,8 +29,8 @@
 ## Recent Explorations
 ### September 2025
 Launched [number] new stars in [number] repositories  
-- [yourusername/dreamweaver](https://github.com/yourusername/dreamweaver) ([number] commits)  
-- [yourusername/butterflycode](https://github.com/yourusername/butterflycode) ([number] commits)
+- [yourusername/dreamweaver](https://github.com/rithikajoshi0-0/dreamweaver) ([number] commits)  
+- [yourusername/butterflycode](https://github.com/rithikajoshi0-0/butterflycode) ([number] commits)
 ## About Me  
 
 Hello, I am 3rd year AI&DS student.
@@ -53,9 +53,9 @@ I’ll take a potato chip… and write some code!
 
 ## Top Contributed Repo
 ### MASTERYDAY GitHub Stats
-- [masteryday](https://github.com/yourusername/masteryday)  
-- [masteryday.github.io](https://github.com/yourusername/masteryday.github.io)  
-- [Wall-of-Fame](https://github.com/yourusername/Wall-of-Fame)  
+- [masteryday](https://github.com/rithikajoshi0-0/masteryday)  
+- [masteryday.github.io](https://github.com/rithikajoshi0-0/masteryday.github.io)  
+- [Wall-of-Fame](https://github.com/rithikajoshi0-0/Wall-of-Fame)  
 
 ## Random Quote
 > A life without bugs is meaningless.
@@ -64,10 +64,10 @@ I’ll take a potato chip… and write some code!
 ### Pinned Repos
 - [masteryday.github.io](https://github.com/yourusername/masteryday.github.io)  
 - [Master](https://github.com/yourusername/master)  
-- [A Model Page](https://github.com/yourusername/amodelpage)  
-- [A Model Page](https://github.com/yourusername/amodelpage2)  
-- [This is of Australia wallpapers](https://github.com/yourusername/australiawallpapers)  
-- [Dice Roller](https://github.com/yourusername/diceroller)
+- [A Model Page](https://github.com/rithikajoshi0-0/amodelpage)  
+- [A Model Page](https://github.com/rithikajoshi0-0/amodelpage2)  
+- [This is of Australia wallpapers](https://github.com/rithikajoshi0-0/australiawallpapers)  
+- [Dice Roller](https://github.com/rithikajoshi0-0/diceroller)
 
 
 ## Contribution activity
