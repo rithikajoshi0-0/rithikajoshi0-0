@@ -25,7 +25,7 @@
   A design tool blending code and illustration.  
 
 ## Contribution Galaxy
-![Contribution Graph](https://ghchart.rshah.org/yourusername)
+![Contribution Graph](https://ghchart.rshah.org/rithikajoshi0-0)
 
 ## Recent Explorations
 ### September 2025
