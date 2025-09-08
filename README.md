@@ -1,10 +1,7 @@
-# MasterJudah here !! 👋
+# RITHIKA JOSHI ✨
 
-![Banner](https://via.placeholder.com/1200x200.png?text=Your+Banner+Image)
+## About Me  
 
-## About Me
-**Nama**: I'm Joshua Thadi  
-🎥 [About Me Video](https://www.youtube.com/watch?v=yourvideoid)  
 
 ✨ **Begin my journey with Software Development in ASP.NET MVC**  
 💻 **Work on projects on Data and Designing**  
