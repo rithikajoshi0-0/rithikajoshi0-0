@@ -2,10 +2,7 @@
 
 # I'M RITHIKA JOSHI ✨
 ## About Me
-🌸 **Hello! I’m [Your Name]**, a [your role, e.g., coder, designer, dreamer] weaving code and creativity in a digital cosmos.  
-🎨 **Inspired by**: Art, technology, and the mysteries of the universe.  
-💫 **Currently exploring**: [your field, e.g., web development, AI, graphic design] with [your tools, e.g., React, Python].  
-🌟 **Let’s connect**: I love collaborating on projects that blend imagination and innovation!
+🌸 **I'm 3rd year AI&DS student working on computer languages and tools**
 
 ### Follow My Journey
 - [Email](mailto:your.email@example.com)  
