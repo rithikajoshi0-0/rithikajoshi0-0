@@ -4,10 +4,6 @@
 ## About Me
 🌸 **I'm 3rd year AI&DS student working on computer languages and tools**
 
-### Follow My Journey
-- [Email](mailto:your.email@example.com)  
-- [LinkedIn](https://www.linkedin.com/in/yourusername)  
-- [Instagram](https://www.instagram.com/yourusername)  
 
 ## My Skills
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,python,git,illustrator,photoshop)  
