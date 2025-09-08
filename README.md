@@ -9,7 +9,7 @@
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,python,git,docker,aws,azure,react,angular)
 
 ## GitHub Constellations
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rithikajoshi0-0&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rithikajoshi0-0&show_icons=true&theme=radical)         ![Banner](https://github.com/rithikajoshi0-0/rrr/blob/main/sinoo.png)
 
 ## Contribution Galaxy
 ![Contribution Graph](https://ghchart.rshah.org/rithikajoshi0-0)
