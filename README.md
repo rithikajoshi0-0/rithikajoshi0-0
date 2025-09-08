@@ -6,7 +6,7 @@ Hello, I am 3rd year AI&DS student.
 I’ll take a potato chip… and write some code!
 
 ### Follow Me On
-- [Email](mailto:rithikajoshi.b@gmail.com?subject=Toad%20Wizard%20Message&body=Hello%20Rithika,) 
+- [Email](mailto:rithikajoshi.b@gmail.com?subject=Toad%20Wizard%20Message&body=Hello%20Rithika,)
 - [LinkedIn](https://www.linkedin.com/in/rithikajoshi1130)   
 - [Instagram](https://www.instagram.com/rithikajoshi.b/?next=%2F)  
 
