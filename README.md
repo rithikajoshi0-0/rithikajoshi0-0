@@ -7,7 +7,6 @@
 
 ## My Skills
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,python,git,docker,aws,azure,react,angular)
-✨ A mix of coding and creative tools to bring visions to life.
 
 ## GitHub Constellations
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
