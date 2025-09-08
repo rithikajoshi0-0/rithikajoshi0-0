@@ -17,11 +17,11 @@
 
 ## Featured Projects
 ### Celestial Creations
-- **[Dreamweaver Site](https://github.com/yourusername/dreamweaver)**  
+- **[Dreamweaver Site](https://github.com/rithikajoshi0-0/dreamweaver)**  
   A web project inspired by cosmic art.  
-- **[Butterfly Code](https://github.com/yourusername/butterflycode)**  
+- **[Butterfly Code](https://github.com/rithikajoshi0-0/butterflycode)**  
   An app fluttering with creative algorithms.  
-- **[Stellar Sketch](https://github.com/yourusername/stellarsketch)**  
+- **[Stellar Sketch](https://github.com/rithikajoshi0-0/stellarsketch)**  
   A design tool blending code and illustration.  
 
 ## Contribution Galaxy
