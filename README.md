@@ -2,7 +2,8 @@
 
 # I'M RITHIKA JOSHI ✨
 ## About Me
-🌸 **I'm 3rd year AI&DS student working on computer languages and tools**
+🌸 **I'm 3rd year AI&DS student working on computer languages and tools.I’ll take a potato chips and write some code!
+**
 
 
 ## My Skills
@@ -16,17 +17,6 @@
 
 ## Contribution Galaxy
 ![Contribution Graph](https://ghchart.rshah.org/rithikajoshi0-0)
-
-## Recent Explorations
-### September 2025
-Launched [number] new stars in [number] repositories  
-- [yourusername/dreamweaver](https://github.com/rithikajoshi0-0/dreamweaver) ([number] commits)  
-- [yourusername/butterflycode](https://github.com/rithikajoshi0-0/butterflycode) ([number] commits)
-## About Me  
-
-Hello, I am 3rd year AI&DS student.
-I’ll take a potato chip… and write some code!
-
 
 
 ## Languages & Tools I Have on My Hands
