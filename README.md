@@ -1,5 +1,5 @@
 # RITHIKA JOSHI ✨
-# [Your Name] 🌌✨
+
 
 ![Banner](https://in.pinterest.com/pin/8514686790838090/) <!-- Replace with your uploaded image URL, e.g., assets/banner.jpg -->
 
