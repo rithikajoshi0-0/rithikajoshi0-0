@@ -6,7 +6,7 @@ Hello, I am 3rd year AI&DS student.
 I’ll take a potato chip… and write some code!
 
 ### Follow Me On
-- [Email](rithikajoshi.b@gmail.com)  
+- [Email](mailto:rithikajoshi.b@gmail.com)  
 - [LinkedIn](www.linkedin.com/in/rithikajoshi1130)  
 - [Twitter](https://twitter.com/yourusername)  
 - [Instagram](https://www.instagram.com/rithikajoshi.b/?next=%2F)  
