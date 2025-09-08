@@ -2,19 +2,8 @@
 
 ## About Me  
 
-Hello, I am R1th1kA... loading… █████▒▒▒▒▒ 62%  
-⚡ learning AI & Data Science  
-🤖 training machines / debugging myself  
-🌐 creating projects that *almost* don’t break in prod  
-
-✨ **Croak! I’m Rithika Joshi, Ribbit! 🐸🔧"
-Feature a "spellbook" with links to magical projects or quirky achievements.**  
-💻 **Work on projects on Data and Designing**  
-🎓 **I am currently pursuing a B.Tech and designing**  
-🌱 **To learn more framework and hands-on experience in Full Stack Development**  
-🤝 **Ask about Microsoft .NET framework, Blockchain Technology, Python**  
-💬 **Artificial Intelligence, Machine Learning, Deep Learning, Data Automation**  
-⚡ **I love perfection**
+Hello, I am 3rd year AI&DS student.
+I am justice… no, wait, I’m just debugging.
 
 ### Follow Me On
 - [YouTube](https://www.youtube.com/@yourusername)  
