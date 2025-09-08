@@ -30,21 +30,3 @@
 
 ## Random Quote
 > A life without bugs is meaningless.
-
-## Pinned
-### Pinned Repos
-- [masteryday.github.io](https://github.com/yourusername/masteryday.github.io)  
-- [Master](https://github.com/yourusername/master)  
-- [A Model Page](https://github.com/rithikajoshi0-0/amodelpage)  
-- [A Model Page](https://github.com/rithikajoshi0-0/amodelpage2)  
-- [This is of Australia wallpapers](https://github.com/rithikajoshi0-0/australiawallpapers)  
-- [Dice Roller](https://github.com/rithikajoshi0-0/diceroller)
-
-
-## Contribution activity
-### August 2025
-Created 2 commits in 4 repositories  
-- [masteryday/masteryday](https://github.com/rithikajoshi0-0/masteryday) (2 commits)  
-- [masteryday/masteryday.github.io](https://github.com/rithikajoshi0-0/masteryday.github.io) (2 commits)  
-- [masteryday/Wall-of-Fame](https://github.com/rithikajoshi0-0/Wall-of-Fame) (2 commits)  
-- [masteryday/masteryday-profile](https://github.com/rithikajoshi0-0/masteryday-profile) (2 commits)
