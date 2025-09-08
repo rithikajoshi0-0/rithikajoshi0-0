@@ -10,9 +10,10 @@
 
 ## GitHub Constellations
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rithikajoshi0-0&show_icons=true&theme=radical)  
-- Stars Collected: 1111
-- Commits Orbiting: 112
-  
+- Total Stars: 397  
+- Total Commits: 3  
+- Longest Streak: Aug 4  
+
 
 ## Featured Projects
 ### Celestial Creations
@@ -43,10 +44,7 @@ I’ll take a potato chip… and write some code!
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-- Total Stars: 397  
-- Total Commits: 3  
-- Longest Streak: Aug 4  
-- Most Used Languages:  
+
 
 ## Tech Stack:
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,python,csharp,sql,git,docker,aws,azure,node,react,angular)
