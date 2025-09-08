@@ -2,8 +2,13 @@
 
 ## About Me  
 
+Hello, I am R1th1kA... loading… █████▒▒▒▒▒ 62%  
+⚡ learning AI & Data Science  
+🤖 training machines / debugging myself  
+🌐 creating projects that *almost* don’t break in prod  
 
-✨ **Begin my journey with Software Development in ASP.NET MVC**  
+✨ **Croak! I’m Rithika Joshi, Ribbit! 🐸🔧"
+Feature a "spellbook" with links to magical projects or quirky achievements.**  
 💻 **Work on projects on Data and Designing**  
 🎓 **I am currently pursuing a B.Tech and designing**  
 🌱 **To learn more framework and hands-on experience in Full Stack Development**  
