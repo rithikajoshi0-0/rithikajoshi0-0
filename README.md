@@ -1,7 +1,7 @@
 # RITHIKA JOSHI ✨
 
 
-![Banner](https://in.pinterest.com/pin/8514686790838090/) <!-- Replace with your uploaded image URL, e.g., assets/banner.jpg -->
+![Banner](https://github.com/rithikajoshi0-0/rrr/blob/main/shinobu.jpeg) <!-- Replace with your uploaded image URL, e.g., assets/banner.jpg -->
 
 ## About Me
 🌸 **Hello! I’m [Your Name]**, a [your role, e.g., coder, designer, dreamer] weaving code and creativity in a digital cosmos.  
