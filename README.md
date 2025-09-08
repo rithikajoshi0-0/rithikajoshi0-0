@@ -30,9 +30,7 @@ I’ll take a potato chip… and write some code!
 - [Wall-of-Fame](https://github.com/yourusername/Wall-of-Fame)  
 
 ## Random Quote
-> "Success is not final, failure is not fatal: It is the courage to continue that counts."  
-> — Winston Churchill  
-> *Just a thought, just a vibe.*
+> A life without bugs is meaningless.
 
 ## Support Me ☕
 - [Buy Me a Coffee](https://www.buymeacoffee.com/yourusername)
