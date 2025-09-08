@@ -64,9 +64,6 @@ I’ll take a potato chip… and write some code!
 ## Random Quote
 > A life without bugs is meaningless.
 
-## Support Me ☕
-- [Buy Me a Coffee](https://www.buymeacoffee.com/yourusername)
-
 ## Pinned
 ### Pinned Repos
 - [masteryday.github.io](https://github.com/yourusername/masteryday.github.io)  
@@ -76,13 +73,11 @@ I’ll take a potato chip… and write some code!
 - [This is of Australia wallpapers](https://github.com/yourusername/australiawallpapers)  
 - [Dice Roller](https://github.com/yourusername/diceroller)
 
-## 40 Contributions in the last year
-![Contribution Graph](https://ghchart.rshah.org/yourusername)
 
 ## Contribution activity
 ### August 2025
 Created 2 commits in 4 repositories  
-- [masteryday/masteryday](https://github.com/yourusername/masteryday) (2 commits)  
-- [masteryday/masteryday.github.io](https://github.com/yourusername/masteryday.github.io) (2 commits)  
-- [masteryday/Wall-of-Fame](https://github.com/yourusername/Wall-of-Fame) (2 commits)  
-- [masteryday/masteryday-profile](https://github.com/yourusername/masteryday-profile) (2 commits)
+- [masteryday/masteryday](https://github.com/rithikajoshi0-0/masteryday) (2 commits)  
+- [masteryday/masteryday.github.io](https://github.com/rithikajoshi0-0/masteryday.github.io) (2 commits)  
+- [masteryday/Wall-of-Fame](https://github.com/rithikajoshi0-0/Wall-of-Fame) (2 commits)  
+- [masteryday/masteryday-profile](https://github.com/rithikajoshi0-0/masteryday-profile) (2 commits)
