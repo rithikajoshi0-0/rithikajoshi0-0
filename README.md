@@ -11,9 +11,9 @@
 
 ## GitHub Constellations
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-- Stars Collected: [your stars]  
-- Commits Orbiting: [your commits]  
-- Longest Streak: [your streak]  
+- Stars Collected: 1111
+- Commits Orbiting: 112
+  
 
 ## Featured Projects
 ### Celestial Creations
