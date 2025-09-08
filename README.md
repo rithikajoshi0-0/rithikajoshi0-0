@@ -6,7 +6,7 @@
 
 
 ## My Skills
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,python,git,illustrator,photoshop)  
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,python,git,illustrator,css,js,python,csharp,sql,git,docker,aws,azure,node,react,angular)
 ✨ A mix of coding and creative tools to bring visions to life.
 
 ## GitHub Constellations
