@@ -2,7 +2,7 @@
 
 ## About Me
 - 🔭 I’m currently working on real time projects.
-- 🌱 I’m currently learning: Artificial Inelligence and Data Science    
+- 🌱 I’m currently learning: Artificial Intelligence and Data Science    
 - 💬 Ask me about: FullStack, DevOps, DSA, Machine Learning
 - 📫 How to reach me: rithikajoshi.b@gmail.com
 
