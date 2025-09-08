@@ -1,8 +1,6 @@
-# RITHIKA JOSHI ✨
-
-
 ![Banner](https://github.com/rithikajoshi0-0/rrr/blob/main/shinobu.jpeg) <!-- Replace with your uploaded image URL, e.g., assets/banner.jpg -->
 
+# I'M RITHIKA JOSHI ✨
 ## About Me
 🌸 **Hello! I’m [Your Name]**, a [your role, e.g., coder, designer, dreamer] weaving code and creativity in a digital cosmos.  
 🎨 **Inspired by**: Art, technology, and the mysteries of the universe.  
