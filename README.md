@@ -10,19 +10,9 @@
 
 ## GitHub Constellations
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rithikajoshi0-0&show_icons=true&theme=radical)  
-- Total Stars: 397  
-- Total Commits: 3  
-- Longest Streak: Aug 4  
 
 
-## Featured Projects
-### Celestial Creations
-- **[Dreamweaver Site](https://github.com/rithikajoshi0-0/dreamweaver)**  
-  A web project inspired by cosmic art.  
-- **[Butterfly Code](https://github.com/rithikajoshi0-0/butterflycode)**  
-  An app fluttering with creative algorithms.  
-- **[Stellar Sketch](https://github.com/rithikajoshi0-0/stellarsketch)**  
-  A design tool blending code and illustration.  
+  
 
 ## Contribution Galaxy
 ![Contribution Graph](https://ghchart.rshah.org/rithikajoshi0-0)
